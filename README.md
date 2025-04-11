@@ -1,4 +1,4 @@
-# netflix_mysql
+# Netflix Using MYSQL
 
 ![](https://github.com/Abhinav091214/netflix_mysql/blob/main/logo.png)
 
