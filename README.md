@@ -1,6 +1,6 @@
 # netflix_mysql
 
-![]()
+![](https://github.com/Abhinav091214/netflix_mysql/blob/main/logo.png)
 Project Summary
 This project presents an in-depth SQL-based analysis of Netflix’s movie and TV show catalog. The main objective is to uncover actionable insights and address key business questions by exploring patterns and trends in the data. This README outlines the project's goals, challenges addressed, methodologies, key findings, and overall conclusions.
 
