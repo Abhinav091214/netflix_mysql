@@ -17,4 +17,4 @@ Categorize titles using specific keywords and criteria for deeper insights.
 ## 📂 Data Source
 The dataset used for this project is publicly available on Kaggle:
 
-Access it here: Netflix Movies and TV Shows Dataset: [https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download](url)
+Access it here: [Netflix Movies and TV Shows Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
